@@ -1,1 +1,2 @@
-# Project-35-Virtual-Pet-1
+# Virtual-pet
+Virtual pet 1
